@@ -24,4 +24,4 @@ Either visit https://chat-box-rj.netlify.app/ Or
 
 |  |  |  |
 |--|--|--|
-|Desktop ![Desktop](https://github.com/rjankit/ChatBox/blob/main/Screenshots/Mobile.jpeg)|
+|Desktop ![Desktop](https://github.com/rjankit/ChatBox/blob/3d45c6773be7b1dca7dcfa254a29d887d64473c9/Screenshots/Mobile.jpeg)|
